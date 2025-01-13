@@ -1,0 +1,236 @@
+(footprint "PHOENIX_1777545"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.175 -16.885 0)
+		(layer "F.SilkS")
+		(uuid "fd1b36d1-06ed-47ab-a655-c45a436557a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PHOENIX_1777545"
+		(at 9.525 1.115 0)
+		(layer "F.Fab")
+		(uuid "699b81ae-57d4-487c-a611-79d6306e849c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c542d10-f167-4ae4-a7a7-84f8fb6632d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e46dfd22-f44c-4192-bbb9-dd2b7c72cd09")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89122b2f-1b02-4556-b740-cbdf094ded51")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -15.85)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3cbf31e3-4356-41f5-af02-1e8a75223ef4")
+	)
+	(fp_line
+		(start 0 0)
+		(end 12.7 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b07a3cfe-dc84-49ac-b608-0a539911902f")
+	)
+	(fp_line
+		(start 12.7 -15.85)
+		(end 0 -15.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd02cd2d-1072-476a-8eb0-2249826b983c")
+	)
+	(fp_line
+		(start 12.7 0)
+		(end 12.7 -15.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0a4ac0b-4db4-4746-9120-b0351c0a205e")
+	)
+	(fp_circle
+		(center -0.5 -13.75)
+		(end -0.4 -13.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "57843671-e489-4860-9b11-b683a703e6d4")
+	)
+	(fp_line
+		(start -0.25 -16.1)
+		(end 12.95 -16.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b4dc9a9-ecdd-4aae-bea3-04494c8c3a3d")
+	)
+	(fp_line
+		(start -0.25 0.25)
+		(end -0.25 -16.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "257bc30c-0775-4b05-8b57-bb330c14b5f7")
+	)
+	(fp_line
+		(start 12.95 -16.1)
+		(end 12.95 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a11da9b5-3896-459c-bacf-f4654e040864")
+	)
+	(fp_line
+		(start 12.95 0.25)
+		(end -0.25 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1d05df95-6a01-41e4-86f5-1913516997c6")
+	)
+	(fp_line
+		(start 0 -15.85)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f6d051e2-e980-4982-815b-fe7f21175b6e")
+	)
+	(fp_line
+		(start 0 0)
+		(end 12.7 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "88a14d52-a229-4bd8-ad69-e952b9b26ae4")
+	)
+	(fp_line
+		(start 12.7 -15.85)
+		(end 0 -15.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64abe7d5-505b-4091-a640-a86c95900913")
+	)
+	(fp_line
+		(start 12.7 0)
+		(end 12.7 -15.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6780df48-4036-4d35-b968-56b8ac3e4709")
+	)
+	(fp_circle
+		(center -0.5 -13.75)
+		(end -0.4 -13.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "24beed14-e9e1-4a27-b37c-93c76d862ec0")
+	)
+	(pad "1" thru_hole rect
+		(at 3.18 -13.75)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "e6bdbb63-5049-4280-ba3e-a9a67057a343")
+	)
+	(pad "2" thru_hole circle
+		(at 9.53 -4.75)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "51389772-4f62-4458-942e-269181d208fb")
+	)
+	(model "C:/supermileage/1777545.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

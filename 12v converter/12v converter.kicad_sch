@@ -1943,7 +1943,7 @@
 		)
 		(uuid "ba39921c-f9eb-40cd-ba9e-110819639c8f")
 	)
-	(label "SW_OUT"
+	(label "VOUT"
 		(at 180.34 90.17 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1954,7 +1954,7 @@
 		)
 		(uuid "2c548ade-38ee-4edd-ba3d-e3b5d7635fbe")
 	)
-	(label "SW_OUT"
+	(label "VOUT"
 		(at 196.85 121.92 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2127,7 +2127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fcp12vconv_footprints:PHOENIX_1777545"
 			(at 205.74 121.92 0)
 			(effects
 				(font
@@ -2136,7 +2136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
 			(at 205.74 121.92 0)
 			(effects
 				(font
@@ -2253,7 +2253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDC"
+		(property "Value" "VIN"
 			(at 152.4 73.406 0)
 			(effects
 				(font
@@ -2325,7 +2325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fcp12vconv_footprints:WE-HCI_1365"
 			(at 200.66 81.28 0)
 			(effects
 				(font
@@ -2334,7 +2334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://productfinder.pulseeng.com/products/datasheets/SPM2007_46.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7443551331.pdf"
 			(at 200.66 81.28 0)
 			(effects
 				(font
@@ -2394,7 +2394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
+		(property "Footprint" "fcp12vconv_footprints:TO-252-3_TabPin2_Single"
 			(at 190.5 87.63 0)
 			(effects
 				(font
@@ -2812,7 +2812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDC"
+		(property "Value" "VIN"
 			(at 194.31 103.886 0)
 			(effects
 				(font
@@ -3228,7 +3228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fcp12vconv_footprints:PHOENIX_1777545"
 			(at 203.2 107.95 0)
 			(effects
 				(font
@@ -3237,7 +3237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
 			(at 203.2 107.95 0)
 			(effects
 				(font
