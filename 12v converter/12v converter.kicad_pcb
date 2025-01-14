@@ -99,7 +99,7 @@
 		(descr "TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/")
 		(tags "D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427")
 		(property "Reference" "U1"
-			(at 5.375 -6.575 360)
+			(at 5.375 -6.575 0)
 			(layer "F.SilkS")
 			(uuid "d4f11283-a86a-4f5f-9d9c-f1857174465e")
 			(effects
@@ -110,7 +110,7 @@
 			)
 		)
 		(property "Value" "LM2674N-3.3"
-			(at 0 6.65 360)
+			(at 0 6.65 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f000101f-7a41-40c3-b0e8-2af6b014202e")
@@ -548,7 +548,7 @@
 			(uuid "d24239ad-c5e1-4870-b60a-3f5dacf37c9d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e38168e4-10c5-44b0-adbf-30dbf01fea64")
 			(effects
@@ -695,7 +695,7 @@
 		(uuid "06f4450e-9b10-4a85-8353-60a17d7e3821")
 		(at 126.87 130.35)
 		(property "Reference" "J1"
-			(at 14.13 -15.35 360)
+			(at 14.13 -15.35 0)
 			(layer "F.SilkS")
 			(uuid "f58e68ba-36ad-4704-a138-678bae71f1a1")
 			(effects
@@ -706,7 +706,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 4 -18.25 360)
+			(at 4 -18.25 0)
 			(layer "F.Fab")
 			(uuid "405dcdbe-6a67-4283-8129-d9c58f62f993")
 			(effects
@@ -717,7 +717,7 @@
 			)
 		)
 		(property "Footprint" "fcp12vconv_footprints:PHOENIX_1777545"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d22255fc-04e0-474d-a34c-e87d280006c8")
@@ -729,7 +729,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d1633855-a786-4df9-9818-7708ba6d72bb")
@@ -741,7 +741,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3b2fb964-906c-44b1-93a9-486ea21defc8")
@@ -931,7 +931,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C7"
-			(at 5.7 0 360)
+			(at 5.7 0 0)
 			(layer "F.SilkS")
 			(uuid "4a75c32c-a208-4ab8-8e25-8368d776173e")
 			(effects
@@ -1163,7 +1163,7 @@
 		(at 150.2 103)
 		(descr "<b> <br><b>WE-HCI SMD Flat Wire High Current Inductor<br></b><pre> <b><font size=\"4\">Size: </b>1365")
 		(property "Reference" "L1"
-			(at -5.5 7.55 360)
+			(at -5.5 7.55 0)
 			(layer "F.SilkS")
 			(uuid "4a70d44d-5520-46fe-8b62-7779572d3d3b")
 			(effects
@@ -1174,7 +1174,7 @@
 			)
 		)
 		(property "Value" "33 uH"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0ee7354b-1246-49fa-91b4-70bdcfc12d2f")
 			(effects
@@ -1185,7 +1185,7 @@
 			)
 		)
 		(property "Footprint" "fcp12vconv_footprints:WE-HCI_1365"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a84319c-f808-4f1d-9876-da1ecf18c24b")
@@ -1197,7 +1197,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7443551331.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16a3f0f7-3243-4464-b16a-af0685eefc63")
@@ -1209,7 +1209,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54fe3b09-5c54-4a6f-a853-2215ac2ef566")
@@ -1831,7 +1831,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C5"
-			(at 5.7 0 360)
+			(at 5.7 0 0)
 			(layer "F.SilkS")
 			(uuid "ff15f5e5-3d83-44ba-9e3f-c9366c609e51")
 			(effects
@@ -2064,7 +2064,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C6"
-			(at 5.7 0 360)
+			(at 5.7 0 0)
 			(layer "F.SilkS")
 			(uuid "e3c1c6e2-752b-4f5f-8c2f-bb805cc394c2")
 			(effects
@@ -2295,7 +2295,7 @@
 		(uuid "44a53a87-46db-4c11-9c08-46fff0868456")
 		(at 127.0625 113.725)
 		(property "Reference" "J2"
-			(at 14.1375 -15.525 360)
+			(at 14.1375 -15.525 180)
 			(layer "F.SilkS")
 			(uuid "0c02c42a-1713-476a-a5df-2124827db1ad")
 			(effects
@@ -2306,7 +2306,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 4.5 -18.5 360)
+			(at 4.5 -18.5 0)
 			(layer "F.Fab")
 			(uuid "12771708-e2ff-4dd7-a50a-cf609f1ce1c9")
 			(effects
@@ -2317,7 +2317,7 @@
 			)
 		)
 		(property "Footprint" "fcp12vconv_footprints:PHOENIX_1777545"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0ed7cd94-ce77-4c1b-95ef-a4ecf09e2f9b")
@@ -2329,7 +2329,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/404/1777545.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef39acc7-ac54-43d0-9e73-4e31005fd1f9")
@@ -2341,7 +2341,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "734bb53f-5564-4462-9a92-4253ef35875e")
@@ -3330,7 +3330,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
-			(at -2.41 0.093884 360)
+			(at -2.41 0.093884 0)
 			(layer "F.SilkS")
 			(uuid "7d5d5b43-92ec-4b58-8baa-762cc1f8568a")
 			(effects
@@ -3543,7 +3543,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
-			(at -2.4 0 360)
+			(at -2.4 0 0)
 			(layer "F.SilkS")
 			(uuid "527461e5-c8d7-4675-84a2-a82bad3d5ec7")
 			(effects
@@ -3989,7 +3989,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C8"
-			(at 5.7 0 360)
+			(at 5.7 0 0)
 			(layer "F.SilkS")
 			(uuid "28261117-fe78-41c9-b144-7b208dc578d9")
 			(effects
@@ -4664,6 +4664,30 @@
 		(layer "Edge.Cuts")
 		(uuid "4148d465-a843-4557-b5b9-6bae94c6b701")
 	)
+	(gr_text "OUT"
+		(at 140.6 99.2 -90)
+		(layer "F.SilkS")
+		(uuid "5ea1c820-f735-47eb-afe7-fe6d1c857762")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "IN"
+		(at 140.4 116.2 -90)
+		(layer "F.SilkS")
+		(uuid "c0e21f39-7b78-4d97-8709-c7a9e9180cf2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 165.325 105.175)
 		(end 166.925 106.775)
@@ -5017,6 +5041,22 @@
 		(uuid "f6b2eb8f-dff8-415f-82f0-cfa8638edc70")
 	)
 	(via
+		(at 164 98.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "053fae3e-85a9-42e2-b655-9f48a36961ee")
+	)
+	(via
+		(at 168.8 100.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "07cfe0a2-c651-49cc-930a-5ef0c2122c55")
+	)
+	(via
 		(at 145.4 126.4)
 		(size 0.6)
 		(drill 0.3)
@@ -5026,12 +5066,36 @@
 		(uuid "300985de-9006-46f1-9894-061214f5c5a9")
 	)
 	(via
+		(at 164 94.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "36e94a90-10e7-45c1-af6c-ddbd7b89cf5c")
+	)
+	(via
 		(at 166.423221 97.518559)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 3)
 		(uuid "3d607371-ce10-433f-8086-e0aa6a39e38a")
+	)
+	(via
+		(at 166.4 94.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "45cfd709-7018-4725-a435-50b230c64791")
+	)
+	(via
+		(at 168.8 98.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "5a516091-4a22-4f9c-af8c-2dbf687c54a3")
 	)
 	(via
 		(at 150.7 126.4)
@@ -5043,6 +5107,14 @@
 		(uuid "5e508952-5bd0-4ce6-bc3b-440545fd070d")
 	)
 	(via
+		(at 164 96.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "696725b1-793e-457b-a6a7-62d6b5b2e345")
+	)
+	(via
 		(at 172.9 126.3)
 		(size 0.6)
 		(drill 0.3)
@@ -5050,6 +5122,14 @@
 		(free yes)
 		(net 3)
 		(uuid "6fb83a5a-b4be-479d-8f72-b52ba132eed9")
+	)
+	(via
+		(at 166.4 96.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "78f16780-9340-48d8-aa59-c11bf933d666")
 	)
 	(via
 		(at 167.7 126.3)
@@ -5061,12 +5141,44 @@
 		(uuid "7f91522d-6fc3-414a-9425-4f784b9b2dbb")
 	)
 	(via
+		(at 166.423221 97.518559)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "803463d2-b6f7-4015-9288-7b684e51037c")
+	)
+	(via
+		(at 168.8 97.6)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "8c53ffdd-506e-4bd9-bd73-5cd77233e4e6")
+	)
+	(via
 		(at 162.8 111.2)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 3)
 		(uuid "92410cca-dbf2-4c57-947f-e2e6bfddb1bd")
+	)
+	(via
+		(at 166.423221 97.518559)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "99558c25-0c71-480e-87d9-814480f7e91c")
+	)
+	(via
+		(at 164 100.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "a33de1c6-3e07-41ae-94ef-1eae32ee0e0d")
 	)
 	(via
 		(at 155.8 126.4)
@@ -5076,6 +5188,46 @@
 		(free yes)
 		(net 3)
 		(uuid "a52a18eb-9176-4ccd-9eaf-442505b05870")
+	)
+	(via
+		(at 164 97.6)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "a85aecda-5281-406e-ae8d-908fe4493d30")
+	)
+	(via
+		(at 168.8 96.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "bcc86439-de3f-4a9b-a3f8-6942c4ecc7b2")
+	)
+	(via
+		(at 166.4 100.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "c1751a24-9c50-4d01-845f-44382ef5e7ab")
+	)
+	(via
+		(at 166.4 98.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "da674113-a54a-40a2-b6d3-472acf8e6c1d")
+	)
+	(via
+		(at 168.8 94.8)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 3)
+		(uuid "f4f9241a-cd44-4edf-ac46-495d315de70b")
 	)
 	(segment
 		(start 160.981383 108.66)
@@ -5337,7 +5489,7 @@
 		)
 		(polygon
 			(pts
-				(xy 126.5 91.2) (xy 126.5 130.6) (xy 180 130.6) (xy 179.9 91.2) (xy 179.9 91.2)
+				(xy 126.5 91.2) (xy 126.5 130.6) (xy 180 130.6) (xy 179.9 91.2)
 			)
 		)
 		(filled_polygon
