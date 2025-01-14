@@ -1,4 +1,4 @@
-23848322121698230
+23870696239985997
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2565,6 +2565,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+Buzzer_Lib
+Buzzer_SMTB-0940-T-3V-R_9mmx9mm
+
+
 0
 2
 2
@@ -18542,6 +18549,13 @@ connector JST ZH horizontal
 0
 15
 14
+Connector_Lib
+TerminalBlock_TE_1-1776275-0_1x10_P3.50mm
+
+
+0
+10
+10
 Connector_Molex
 Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
 Molex CLIK-Mate series connector, 502382-0270 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
@@ -57868,6 +57882,13 @@ heatsink
 0
 0
 0
+Inductor_Lib
+IND_LQH3NPH2R2MMEL
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -68519,6 +68540,13 @@ Oscillator
 Oscillator_SeikoEpson_SG-8002DC
 8-lead dip package, row spacing 7.62 mm (300 mils)
 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+Oscillator_Lib
+Oscillator_XTAL4_SiT1533_SIT
+
+SIT1534AI-H4-DCC-04.096E 
 0
 4
 4
@@ -84608,6 +84636,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Potentiometer_Lib
+Pot_AMP_PS6KV55-103A3030
+
+PS6KV55-103A3030-I 
+0
+3
+3
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -89627,6 +89662,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Switch_Lib
+GPTS203211B
+GPTS203211B
+Switch
+0
+2
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -96739,13 +96781,6 @@ Varistor VF
 0
 2
 2
-custom_library
-P0849SNL
-
-
-0
-4
-4
 fcp12vconv_footprints
 CONN2_796740-2_TEC
 
@@ -96781,3 +96816,17 @@ WE-HCI_1365
 0
 2
 2
+fcp12vconv_footprints
+sm_logo
+
+
+0
+0
+0
+fcp12vconv_footprints
+sm_logo_small
+
+
+0
+0
+0
