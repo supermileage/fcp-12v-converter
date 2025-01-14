@@ -224,7 +224,7 @@
 	)
 	(model "C:/supermileage/1777545.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 4)
 		)
 		(scale
 			(xyz 1 1 1)

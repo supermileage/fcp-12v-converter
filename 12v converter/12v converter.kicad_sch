@@ -2142,7 +2142,7 @@
 		(uuid "df707728-1fe0-4286-9103-cf9c55eece39")
 	)
 	(label "VOUT"
-		(at 223.52 82.55 0)
+		(at 220.98 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
