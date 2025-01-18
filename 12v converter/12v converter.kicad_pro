@@ -484,7 +484,7 @@
       "plot": "plots/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "12v converter.step",
       "svg": "",
       "vrml": ""
     },
