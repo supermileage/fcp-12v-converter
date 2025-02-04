@@ -2793,7 +2793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "fcp12vconv_footprints:TO-252-3_TabPin2_Single"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
 			(at 190.5 88.9 0)
 			(effects
 				(font
